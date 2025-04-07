@@ -2,11 +2,8 @@ Frontend Mentor - QR code component solution
 This is a solution to the QR code component challenge on Frontend Mentor. 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-
-
-
-Links
-Solution URL: Add solution URL here
+Links:
+Solution URL: https://github.com/QMS85/QRCode.git
 Live Site URL: https://qms85.github.io/QRCode/
 My process
 Built with
