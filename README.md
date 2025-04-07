@@ -7,14 +7,13 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 Links
 Solution URL: Add solution URL here
-Live Site URL: Add live site URL here
+Live Site URL: https://qms85.github.io/QRCode/
 My process
 Built with
 Semantic HTML5 markup
 CSS custom properties
 Flexbox
 CSS Grid
-Mobile-first workflow
 
 Here's a step-by-step breakdown of how this QR code component project was completed:
 
@@ -267,7 +266,7 @@ After completing this QR code project, here are some areas for continued develop
 
 
 Author: Jonathan Peters
-Website - Add your name here
+Website - https://qms85.github.io/MyPortfolio/
 Frontend Mentor: https://www.frontendmentor.io/profile/QMS85
 Twitter - @DJJonnas85
 Facebook: https://www.facebook.com/2jonathanpeters
