@@ -1,25 +1,25 @@
-##Frontend Mentor - QR code component solution
+# Frontend Mentor - QR code component solution
 This is a solution to the QR code component challenge on Frontend Mentor. 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-##1. QR Code (Desktop View)                                                                               
+# 1. QR Code (Desktop View)                                                                               
 
 <a href="https://qms85.github.io/QRCode/">                                                                                                        
 <img src="qrcode.png" alt="QR-Code-Desktop" width="200"/>                                            
 </a>
 
 
-##2. QR Code (Mobile View)
+# 2. QR Code (Mobile View)
 
 <a href="https://qms85.github.io/QRCode/">
 <img src="qrcode2.png" alt="QR-Code-Mobile" width="200"/>
 
 
-##Links:
+# Links:
 Solution URL: https://github.com/QMS85/QRCode.git
 Live Site URL: https://qms85.github.io/QRCode/
 
-##My process
+# My process
 Built with
 Semantic HTML5 markup
 CSS custom properties
@@ -28,7 +28,7 @@ CSS Grid
 
 Here's a step-by-step breakdown of how this QR code component project was completed:
 
-##1. Project Setup:
+# 1. Project Setup:
 ~ Created basic HTML file structure with proper meta tags and character encoding
 ~ Added viewport meta tag for responsive design
 ~ Linked necessary external resources:
@@ -36,7 +36,7 @@ Here's a step-by-step breakdown of how this QR code component project was comple
 ~ Custom CSS file
 ~ Favicon
 
-##2. The provided HTML has the following structure:
+# 2. The provided HTML has the following structure:
 ~ Built semantic HTML markup using:
 ~ ```<main>``` for primary content
 ~ ```<div>``` for QR card container
@@ -45,7 +45,7 @@ Here's a step-by-step breakdown of how this QR code component project was comple
 ~ ```<p>``` for descriptive text
 ~ ```<footer>``` for attribution
 
-##3. CSS Base Styling:
+# 3. CSS Base Styling:
 ```
 * {
     margin: 0;
@@ -56,7 +56,7 @@ Here's a step-by-step breakdown of how this QR code component project was comple
 ~ Reset default margins and padding
 ~ Set box-sizing to border-box for consistent layouts
 
-##4. Body Layout:
+# 4. Body Layout:
 ```
 body {
     font-family: 'Outfit', sans-serif;
@@ -72,7 +72,7 @@ body {
 ~ Set minimum viewport height
 ~ Applied background color and font family
 
-##5. Card Component Styling:
+# 5. Card Component Styling:
 ```
 .qr-card {
     background-color: hsl(0, 0%, 100%);
@@ -87,7 +87,7 @@ body {
 ~ Added padding, border radius, and subtle shadow
 ~ Set maximum width for consistent sizing
 
-##6. Responsive Design
+# 6. Responsive Design
 ~ Added media query for screens 375px and larger
 ~ Adjusted card margins for better mobile display
 ```
@@ -97,23 +97,23 @@ body {
     }
 }
 ```
-##7. Typography and Colors
+# 7. Typography and Colors
 ~ Used specific HSL colors for text and backgrounds
 ~ Set appropriate font sizes and weights
 ~ Added proper spacing between elements
 
-##8. Final Testing
+# 8. Final Testing
 ~ Verified layout on different screen sizes
 ~ Checked accessibility features (alt text, semantic HTML)
 ~ Validated HTML and CSS
 
 This project demonstrates responsive design principles, proper HTML semantics, and CSS best practices for creating a simple yet effective component.
 
-##The Challenges i faced with this project:
+# The Challenges i faced with this project:
 
 Here are the main challenges faced in this QR code component project:
 
-##1.Centering the Card Component
+# 1.Centering the Card Component
 ~ Challenge: Achieving perfect vertical and horizontal centering
 ~ Solution: Used flexbox on the body element:
 ```
@@ -127,7 +127,7 @@ body {
 }
 ```
 
-##2. Image Responsiveness
+# 2. Image Responsiveness
 ~ Challenge: Making the QR code image scale properly within its container
 ~ Solution: Added responsive image properties:
 ```
@@ -138,7 +138,7 @@ body {
 }
 ```
 
-##3. Typography Balance
+# 3. Typography Balance
 ~ Challenge: Maintaining readable text sizes across devices
 ~ Solution: Used relative units and specific font weights:
 ```
@@ -156,7 +156,7 @@ p {
 }
 ```
 
-##4. Card Shadow Effects
+# 4. Card Shadow Effects
 ~ Challenge: Creating subtle, realistic shadow effects
 ~ Solution: Used carefully tuned box-shadow values:
 ```
@@ -166,7 +166,7 @@ p {
 }
 ```
 
-##5. Mobile Responsiveness
+# 5. Mobile Responsiveness
 ~ Challenge: Ensuring the component looks good on all screen sizes
 ~ Solution: Used a mobile-first approach with appropriate max-width constraints:
 ```
@@ -183,12 +183,12 @@ What I have learned
 
 Here are the key learnings from this QR code component project:
 
-##1. Semantic HTML Structure
+# 1. Semantic HTML Structure
 ~ Learned the importance of using semantic elements like ```<main>``` and ```<footer>```
 ~ Proper use of heading hierarchy with ```<h1>```
 ~ Adding meaningful alt attributes for accessibility
 
-##2. CSS Best Practices
+# 2. CSS Best Practices
 ~ Using CSS custom properties for better maintainability:
 ```
 :root {
@@ -199,7 +199,7 @@ Here are the key learnings from this QR code component project:
 }
 ```
 
-##3. Flexbox Layout
+# 3. Flexbox Layout
 ~ Understanding flexbox for centering content both vertically and horizontally
 ~ Using flex properties effectively:
 ```
@@ -211,22 +211,22 @@ Here are the key learnings from this QR code component project:
 }
 ```
 
-##4. Responsive Design
+# 4. Responsive Design
 ~ Mobile-first approach importance
 ~ Using relative units (rem) instead of fixed pixels
 ~ Implementing proper viewport meta tags
 
-##5. Project Organization
+# 5. Project Organization
 ~ Keeping code clean and well-structured
 ~ Separating concerns (HTML structure, CSS styling)
 ~ Proper file organization (images in separate folder)
 
-##6. Version Control
+# 6. Version Control
 ~ Using Git/Github for tracking changes
 ~ Creating meaningful commit messages
 ~ Managing project files effectively
 
-##7. Performance Considerations
+# 7. Performance Considerations
 ~ Optimizing images
 ~ Using appropriate font loading strategies
 ~ Minimizing CSS complexity
@@ -234,43 +234,43 @@ Here are the key learnings from this QR code component project:
 
 After completing this QR code project, here are some areas for continued developement or further study:
 
-##1. Advanced CSS Features
+# 1. Advanced CSS Features
 ~ Study CSS Grid for more complex layouts
 ~ Learn CSS animations and transitions
 ~ Explore CSS custom properties (variables) in depth
 
-##2. JavaScript Integration
+# 2. JavaScript Integration
 ~ Add interactive features:
 ~ Loading states
 ~ Dynamic QR code generation
 ~ Form validation
 
-##3. Accessibility Improvements
+# 3. Accessibility Improvements
 ~ Learn ARIA attributes
 ~ Implement keyboard navigation
 ~ Study color contrast requirements
 
-##4. Build Tools & Optimization
+# 4. Build Tools & Optimization
 ~ Learn package managers (npm/yarn)
 ~ Study build tools like Webpack or Vite
 ~ Implement CSS preprocessing with Sass/Less
 
-##5. Testing
+# 5. Testing
 ~ Unit testing with Jest
 ~ E2E testing with Cypress
 ~ Accessibility testing tools
 
-##6. Version Control
+# 6. Version Control
 ~ Advanced Git features
 ~ Branching strategies
 ~ Pull request workflows
 
-##7. Performance Optimization
+# 7. Performance Optimization
 ~ Image optimization
 ~ Lazy loading
 ~ Critical CSS implementation
   
-##8. Responsive Design
+# 8. Responsive Design
 ~ Mobile-first approach
 ~ CSS media queries
 ~ Fluid typography
