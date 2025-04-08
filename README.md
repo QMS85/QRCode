@@ -2,19 +2,17 @@ Frontend Mentor - QR code component solution
 This is a solution to the QR code component challenge on Frontend Mentor. 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-QR Code (Desktop View)
-<a href="https://qms85.github.io/QRCode/">
-<img src="qrcode.png" alt="QR-Code-Desktop" width="200"/>
-</a>
+QR Code (Desktop View)                                                                       QR Code (Mobile View)
 
-QR Code (Mobile View)
-<a href="https://qms85.github.io/QRCode/">
-<img src="qrcode2.png" alt="QR-Code-Mobile" width="200"/>
-</a>
+<a href="https://qms85.github.io/QRCode/">                                                   <a href="https://qms85.github.io/QRCode/">                                             
+<img src="qrcode.png" alt="QR-Code-Desktop" width="200"/>                                    <img src="qrcode2.png" alt="QR-Code-Mobile" width="200"/>
+</a>                                                                                         </a>
+
 
 Links:
 Solution URL: https://github.com/QMS85/QRCode.git
 Live Site URL: https://qms85.github.io/QRCode/
+
 My process
 Built with
 Semantic HTML5 markup
